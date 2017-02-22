@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // localhost
-$config['base_url'] = 'http://localhost/cuerpo_libre/';
+$config['base_url'] = 'http://localhost/multirecargas/';
 /*
 |--------------------------------------------------------------------------
 | Index File
